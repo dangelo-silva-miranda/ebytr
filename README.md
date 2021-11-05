@@ -11,7 +11,7 @@ Como o time de desenvolvimento utiliza a Stack MERN para criar suas aplicações
 </br>
 
 Link para repositório do Front-end [aqui](https://github.com/dangelo-silva-miranda/ebytr-frontend) </br>
-Link para repositório do Back-end [aqui](https://github.com/dangelo-silva-miranda/ebytr-frontend) </br>
+Link para repositório do Back-end [aqui](https://github.com/dangelo-silva-miranda/ebytr-backend) </br>
 
 ---
 
